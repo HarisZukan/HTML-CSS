@@ -1,0 +1,107 @@
+body{
+    background-image: url(img/sea.jpg);
+    background-size: cover;
+    
+}
+.wrapper{
+    width: 650px;
+    height: 670px;
+    margin: auto;
+    background-color: rgba(0,0,0,50%);
+    margin-top: 50px;
+  
+    box-sizing: border-box;
+
+}
+#header{
+    text-align: center;
+    color: #fff;
+    height: 50px;
+    background-color: rgba(0,0,0,30%);
+     
+}
+h1{
+    padding-top: 3px;
+    font-family: serif;
+    font-style: italic;
+}
+.name{
+    margin-bottom: 43px;
+    
+    
+}
+.name input{
+    margin-top: 30px;
+    margin-left: 50px;
+    height: 30px;
+    border-radius: 6px;
+
+}
+label{
+    margin-left: 45px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.company input{
+height: 30px;
+border-radius:6px ;
+margin-left: 18px;
+width: 405px;
+margin-bottom: 45px;
+
+}
+.email input{
+    height: 30px;
+border-radius:6px ;
+margin-left: 43px;
+width: 405px;
+margin-bottom: 45px;
+}
+.phone input{
+    height: 30px;
+    border-radius: 6px;
+    margin-left: 45px;
+    margin-bottom: 45px;
+    
+}
+.input1{
+    width: 75px;
+}
+.input2{
+    width: 273px;
+}
+.subject select{
+    height: 30px;
+    border-radius: 6px;
+    margin-left: 34px;
+    width: 416px;
+    margin-bottom: 45px;
+}
+.radio input{
+    margin-left: 45px;
+    margin-top:18px;
+    margin-bottom: 35px;
+}
+.register{
+    height: 40px;
+    margin-left: 45px;
+    border-radius: 6px;
+    width: 186px;
+    color: #fff;
+    font-weight: bold;
+    background-color: #33ffcc;
+}
+.first-name{
+    
+    font-size: 12px;
+    margin-left: 152px;
+}
+.last-name{
+    
+    font-size: 12px;
+    margin-left: 53px;
+
+}
+
+
